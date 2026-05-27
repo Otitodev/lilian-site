@@ -4,7 +4,7 @@
 Single-file static portfolio page for Echem Lilian. No frameworks, no build step, no dependencies.
 
 ## How to run
-Open `portfolio.html` in a browser. No web server required.
+Open `index.html` in a browser. No web server required.
 
 ## Conventions
 - All CSS is inline in `<style>`, all JS is inline in `<script>` — keep it that way unless explicitly asked to split.
